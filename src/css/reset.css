@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    /* tira o ponto preto da lista */
+}
+
+a {
+    text-decoration: none;
+    /* tira a linha que fica debaixo do link */
+    color: inherit;
+    /* tira a cor azul do link e copia a do "parente"*/
+}
